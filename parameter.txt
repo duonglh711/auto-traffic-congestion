@@ -1,0 +1,11 @@
+Parameter:
+--ccfg: path to camera config file
+--weights: path to yolov4 weights file
+--names: path to yolov4 obj name file
+--configs: path to yolov4 config file
+--size: resize images to
+--input: path to input video
+--output: path to output folder
+--max_frame: number frame to detect, put -1 to detect all frame
+--start_minutes: detect from minutes
+--show_box: 1 is show bounding box
